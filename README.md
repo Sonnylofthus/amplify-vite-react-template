@@ -11,6 +11,19 @@ This template equips you with a foundational React application integrated with A
 - **Authentication**: Setup with Amazon Cognito for secure user authentication.
 - **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
 - **Database**: Real-time database powered by Amazon DynamoDB.
+- **Go Learning Resources**: Includes Go programming examples and tutorials in the `go-learning/` directory.
+
+## Go Learning
+
+This repository includes Go programming examples and resources in the `go-learning/` directory. These are designed to help you learn Go fundamentals and can be used to create backend services for your React application.
+
+To get started with the Go examples:
+```bash
+cd go-learning
+go run hello.go
+```
+
+See [go-learning/README.md](go-learning/README.md) for more details and additional examples.
 
 ## Deploying to AWS
 
